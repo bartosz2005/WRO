@@ -1,4 +1,9 @@
+//We have no cnc or 3D printing model
+//The program we had use is ardiuno
+//The camera we used is huskylens
+//The most detail technologic have will said at the other/document.pdf
 //This is the program of the AI vehicles, please copy it to the Arduino app and up load it into the vehicles. 
+
 
 #define echoPin1 6 // attach pin 6 Arduino to pin Echo of HC-SR04
 #define trigPin1 7 //attach pin 7 Arduino to pin Trig of HC-SR04
