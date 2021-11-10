@@ -1,10 +1,10 @@
-//We have no cnc or 3D printing model
-//The program we had use is ardiuno
-//The camera we used is huskylens
-//The most detail technologic have will said at the other/document.pdf
-//The photo have been posted on the photo/20212220_17%.jpg
-//The team photo should be have two file,one it is funny another one is the normal one.It should be renamed by Funny_team_photo and Team_photo
-//This is the program of the AI vehicles, please copy it to the Arduino app and up load it into the vehicles. 
+**We have no cnc or 3D printing model
+The program we had use is ardiuno
+The camera we used is huskylens
+The most detail technologic have will said at the other/document.pdf
+The photo have been posted on the photo/20212220_17%.jpg
+The team photo should be have two file,one it is funny another one is the normal one.It should be renamed by Funny_team_photo and Team_photo
+This is the program of the AI vehicles, please copy it to the Arduino app and up load it into the vehicles.**
 
 
 #define echoPin1 6 // attach pin 6 Arduino to pin Echo of HC-SR04
